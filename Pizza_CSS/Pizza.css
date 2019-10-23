@@ -1,0 +1,77 @@
+
+body {
+    background-color: #f1d302;
+}
+
+h1 {
+    color: #235789;
+    font-family: 'Fascinate Inline', cursive;
+    padding-left: 75px;
+}
+
+#menuBG {
+    width: 450px;
+    height: 470px;
+    margin: 10px auto;
+}
+
+#frmMenu {
+    width: 600px;
+    height: 250px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.center {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.right {
+    width: 200px;
+    height: 225px;
+    float: right;
+}
+
+h3 {
+    color: #c1292e;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+div {
+    color: #101510;
+    font-family: 'Nunito', sans-serif;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart {
+    top: 0;
+    margin: 0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+#btnOrder {
+    margin: 10px 0px 0px 200px;
+    width: 100px;
+    height: 40px;
+}
+
